@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">IslamPro</string>
+    <string name="title_waktu">Jadwal Sholat</string>
+    <string name="title_dzikir">Al-Matsurat</string>
+    <string name="title_infomasjid">Informasi Kajian</string>
+    <string name="title_kubra">KUBRA</string>
+    <string name="title_subuh">SUBUH</string>
+    <string name="title_dzuhur">DZUHUR</string>
+    <string name="title_ashar">ASHAR</string>
+    <string name="title_maghrib">MAGHRIB</string>
+    <string name="title_isya">ISYA</string>
+    <string name="pagi">DZIKIR PAGI</string>
+    <string name="petang">DZIKIR PETANG</string>
+    <string name="titleone">Aplikasi</string>
+    <string name="titletwo">Islam Pro</string>
+    <string name="titlethree">© IslamPro Apps by Kelompok 4 2020</string>
 </resources>
